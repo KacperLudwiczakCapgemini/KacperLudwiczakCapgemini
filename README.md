@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**KacperLudwiczakCapgemini/KacperLudwiczakCapgemini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corporate GitHub profile.
 
-Here are some ideas to get you started:
+I am currently an Automation Developer Intern at **Capgemini**, contributing to the development and maintenance of Robotic Process Automation (RPA) solutions using **UiPath**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Designing and developing automation workflows in UiPath
+- Automating business and operational processes
+- Web, desktop, and Excel automation
+- Data extraction, transformation, and reporting
+- Integration with APIs and enterprise systems
+- Version control and collaborative development with Git
+- Deployment and monitoring through UiPath Orchestrator
+- Process optimization and digital transformation initiatives
+
+## Technologies
+
+- UiPath Studio
+- UiPath Orchestrator
+- VB.NET
+- Git & GitHub
+- REST APIs
+- Microsoft Excel
+
+## Personal GitHub
+
+➡️ **[@KacperLudwiczak](https://github.com/KacperLudwiczak)**
+
+---
+
+*This account is dedicated to my professional contributions and company-related projects at Capgemini.*
